@@ -3,3 +3,4 @@ __pycache__/
 config.py
 cool_people_screenames*
 test*
+unfollow_queue.*
